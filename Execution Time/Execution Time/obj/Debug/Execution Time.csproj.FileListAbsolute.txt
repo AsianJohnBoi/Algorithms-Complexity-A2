@@ -1,0 +1,6 @@
+c:\users\n9642587\documents\visual studio 2017\Projects\Execution Time\Execution Time\obj\Debug\Execution Time.csprojResolveAssemblyReference.cache
+c:\users\n9642587\documents\visual studio 2017\Projects\Execution Time\Execution Time\bin\Debug\Execution Time.exe.config
+c:\users\n9642587\documents\visual studio 2017\Projects\Execution Time\Execution Time\bin\Debug\Execution Time.exe
+c:\users\n9642587\documents\visual studio 2017\Projects\Execution Time\Execution Time\bin\Debug\Execution Time.pdb
+c:\users\n9642587\documents\visual studio 2017\Projects\Execution Time\Execution Time\obj\Debug\Execution Time.exe
+c:\users\n9642587\documents\visual studio 2017\Projects\Execution Time\Execution Time\obj\Debug\Execution Time.pdb

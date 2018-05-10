@@ -1,0 +1,6 @@
+c:\users\n9642587\documents\visual studio 2017\Projects\Average basic operation\Average basic operation\bin\Debug\Average basic operation.exe.config
+c:\users\n9642587\documents\visual studio 2017\Projects\Average basic operation\Average basic operation\bin\Debug\Average basic operation.exe
+c:\users\n9642587\documents\visual studio 2017\Projects\Average basic operation\Average basic operation\bin\Debug\Average basic operation.pdb
+c:\users\n9642587\documents\visual studio 2017\Projects\Average basic operation\Average basic operation\obj\Debug\Average basic operation.csprojResolveAssemblyReference.cache
+c:\users\n9642587\documents\visual studio 2017\Projects\Average basic operation\Average basic operation\obj\Debug\Average basic operation.exe
+c:\users\n9642587\documents\visual studio 2017\Projects\Average basic operation\Average basic operation\obj\Debug\Average basic operation.pdb
