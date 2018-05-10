@@ -9,8 +9,8 @@ namespace Median_algorithm
 {
     class Program
     {
-        private static double timer1;
-        private static long timer2;
+        private static double medianTimer;
+        private static double bruteTimer;
         private static Stopwatch sw;
         private static Random rand = new Random();
 
@@ -39,7 +39,8 @@ namespace Median_algorithm
             if (pos == m)
             {
                 sw.Stop();
-                timer1 = sw.Elapsed.TotalMilliseconds;
+                medianTimer = sw.Elapsed.TotalMilliseconds;
+                sw.Reset();
                 return A[pos];
             }
             if (pos > m)
@@ -130,7 +131,7 @@ namespace Median_algorithm
                 if (numsmaller < k && k <= (numsmaller + numequal))
                 {
                     timer.Stop(); //stops stopwatch
-                    timer2 = timer.ElapsedMilliseconds; //assigns the timer to the global variable
+                    bruteTimer = timer.Elapsed.TotalMilliseconds; //assigns the timer to the global variable
                     return A[i];
                 }
             }
@@ -140,23 +141,33 @@ namespace Median_algorithm
 
         static void Main(string[] args)
         {
-            timer1 = 0;
-            timer2 = 0;
-
+            sw = new Stopwatch();
             int numberOfTimes = 30;
-            for (int size = 1; size <= 20; size += 1) //number of tests for each array size
+            for (int size = 1; size <= 100; size += 1) //number of tests for each array size
             {
+                double averageMedianTimer = 0;
+                double averageBruteForceTimer = 0;
+
                 for (int i = 0; i < numberOfTimes; i++)
                 {
+                    //medianTimer = 0; 
+                    //bruteTimer = 0; //Don't need to reset as its values are always replaced.
                     int[] test = GenerateRandomArray(size);
                     Median(test);
                     BruteForceMedian(test);
 
+                    averageMedianTimer += medianTimer;
+                    averageBruteForceTimer += bruteTimer;                 
                 }
-                Console.WriteLine("For size {0}, execution time of Median: {1}, execution time of BruteForceMedian: {2}", size, timer1, timer2);
+                averageMedianTimer = averageMedianTimer / numberOfTimes;
+                averageBruteForceTimer = averageBruteForceTimer / numberOfTimes;
+                //Console.WriteLine("For size {0}, execution time of Median: {1}, execution time of BruteForceMedian: {2}", size, averageMedianTimer, averageBruteForceTimer);
+                Console.WriteLine("{0}", averageMedianTimer);
+                Console.WriteLine("{0}", averageBruteForceTimer);
             }
-          
             Console.ReadKey();
         }
+          
+            
     }
 }
