@@ -162,8 +162,7 @@ namespace Median_algorithm
                 averageMedianTimer = averageMedianTimer / numberOfTimes;
                 averageBruteForceTimer = averageBruteForceTimer / numberOfTimes;
                 //Console.WriteLine("For size {0}, execution time of Median: {1}, execution time of BruteForceMedian: {2}", size, averageMedianTimer, averageBruteForceTimer);
-                Console.WriteLine("{0}", averageMedianTimer);
-                Console.WriteLine("{0}", averageBruteForceTimer);
+                Console.WriteLine("{0} {1}", Math.Round(averageMedianTimer, 5), Math.Round(averageBruteForceTimer, 5));
             }
             Console.ReadKey();
         }
