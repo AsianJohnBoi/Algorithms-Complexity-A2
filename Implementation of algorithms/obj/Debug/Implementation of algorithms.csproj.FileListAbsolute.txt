@@ -1,6 +1,0 @@
-H:\Implementation of algorithms\Implementation of algorithms\bin\Debug\Implementation of algorithms.exe.config
-H:\Implementation of algorithms\Implementation of algorithms\bin\Debug\Implementation of algorithms.exe
-H:\Implementation of algorithms\Implementation of algorithms\bin\Debug\Implementation of algorithms.pdb
-H:\Implementation of algorithms\Implementation of algorithms\obj\Debug\Implementation of algorithms.csprojResolveAssemblyReference.cache
-H:\Implementation of algorithms\Implementation of algorithms\obj\Debug\Implementation of algorithms.exe
-H:\Implementation of algorithms\Implementation of algorithms\obj\Debug\Implementation of algorithms.pdb
