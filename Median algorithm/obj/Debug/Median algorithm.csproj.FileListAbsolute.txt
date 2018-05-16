@@ -1,6 +1,0 @@
-H:\Median algorithm\Median algorithm\bin\Debug\Median algorithm.exe.config
-H:\Median algorithm\Median algorithm\bin\Debug\Median algorithm.exe
-H:\Median algorithm\Median algorithm\bin\Debug\Median algorithm.pdb
-H:\Median algorithm\Median algorithm\obj\Debug\Median algorithm.csprojResolveAssemblyReference.cache
-H:\Median algorithm\Median algorithm\obj\Debug\Median algorithm.exe
-H:\Median algorithm\Median algorithm\obj\Debug\Median algorithm.pdb
