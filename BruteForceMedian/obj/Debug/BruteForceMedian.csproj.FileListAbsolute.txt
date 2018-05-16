@@ -1,7 +1,0 @@
-C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\BruteForceMedian\BruteForceMedian\obj\Debug\BruteForceMedian.csprojResolveAssemblyReference.cache
-C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\BruteForceMedian\BruteForceMedian\obj\Debug\BruteForceMedian.csproj.CoreCompileInputs.cache
-C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\BruteForceMedian\BruteForceMedian\bin\Debug\BruteForceMedian.exe.config
-C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\BruteForceMedian\BruteForceMedian\bin\Debug\BruteForceMedian.exe
-C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\BruteForceMedian\BruteForceMedian\bin\Debug\BruteForceMedian.pdb
-C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\BruteForceMedian\BruteForceMedian\obj\Debug\BruteForceMedian.exe
-C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\BruteForceMedian\BruteForceMedian\obj\Debug\BruteForceMedian.pdb
