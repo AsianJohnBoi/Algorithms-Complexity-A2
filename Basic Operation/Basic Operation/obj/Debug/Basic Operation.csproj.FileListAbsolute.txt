@@ -1,0 +1,7 @@
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Basic Operation\Basic Operation\Basic Operation\bin\Debug\Basic Operation.exe.config
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Basic Operation\Basic Operation\Basic Operation\bin\Debug\Basic Operation.exe
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Basic Operation\Basic Operation\Basic Operation\bin\Debug\Basic Operation.pdb
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Basic Operation\Basic Operation\Basic Operation\obj\Debug\Basic Operation.csprojResolveAssemblyReference.cache
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Basic Operation\Basic Operation\Basic Operation\obj\Debug\Basic Operation.csproj.CoreCompileInputs.cache
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Basic Operation\Basic Operation\Basic Operation\obj\Debug\Basic Operation.exe
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Basic Operation\Basic Operation\Basic Operation\obj\Debug\Basic Operation.pdb

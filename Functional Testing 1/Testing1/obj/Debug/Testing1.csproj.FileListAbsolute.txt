@@ -1,0 +1,6 @@
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Functional Testing 1\Testing1\Testing1\bin\Debug\Testing1.exe.config
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Functional Testing 1\Testing1\Testing1\bin\Debug\Testing1.exe
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Functional Testing 1\Testing1\Testing1\bin\Debug\Testing1.pdb
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Functional Testing 1\Testing1\Testing1\obj\Debug\Testing1.csproj.CoreCompileInputs.cache
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Functional Testing 1\Testing1\Testing1\obj\Debug\Testing1.exe
+C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Functional Testing 1\Testing1\Testing1\obj\Debug\Testing1.pdb
