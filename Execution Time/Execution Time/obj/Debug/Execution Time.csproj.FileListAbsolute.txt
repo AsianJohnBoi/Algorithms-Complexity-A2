@@ -24,3 +24,10 @@ C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\
 C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Execution Time\Execution Time\obj\Debug\Execution Time.csproj.CoreCompileInputs.cache
 C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Execution Time\Execution Time\obj\Debug\Execution Time.exe
 C:\Users\John Santias\Desktop\Uni\CAB301\assignment 2\CAB301-A2-master\Programs\Execution Time\Execution Time\obj\Debug\Execution Time.pdb
+C:\Users\John Santias\Desktop\Uni\CAB301\CAB301-A2\Execution Time\Execution Time\bin\Debug\Execution Time.exe.config
+C:\Users\John Santias\Desktop\Uni\CAB301\CAB301-A2\Execution Time\Execution Time\bin\Debug\Execution Time.exe
+C:\Users\John Santias\Desktop\Uni\CAB301\CAB301-A2\Execution Time\Execution Time\bin\Debug\Execution Time.pdb
+C:\Users\John Santias\Desktop\Uni\CAB301\CAB301-A2\Execution Time\Execution Time\obj\Debug\Execution Time.csprojResolveAssemblyReference.cache
+C:\Users\John Santias\Desktop\Uni\CAB301\CAB301-A2\Execution Time\Execution Time\obj\Debug\Execution Time.csproj.CoreCompileInputs.cache
+C:\Users\John Santias\Desktop\Uni\CAB301\CAB301-A2\Execution Time\Execution Time\obj\Debug\Execution Time.exe
+C:\Users\John Santias\Desktop\Uni\CAB301\CAB301-A2\Execution Time\Execution Time\obj\Debug\Execution Time.pdb
